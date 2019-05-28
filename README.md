@@ -9,4 +9,5 @@ The projects are grouped by topic
 
 | Project | Code | Topic |
 | ----- | ------- | ----- |
-| Build a simple image classifier for apparel | [projects/1-fashion-mnist](https://github.com/lukas/ml-class/tree/master/projects/1-fashion-mnist) | [Build your first machine learning model](https://www.youtube.com/watch?v=CbXj7091OWA) | 
+| Check the text similarity | [projects/text similarity](https://github.com/Akhatova/Data-Science-Coursera/tree/master/projects/text%20similarity) | [Cosine similarity](https://towardsdatascience.com/overview-of-text-similarity-metrics-3397c4601f50) |
+| Predict Grant Applications | [projects/Predict Grant Applications](https://github.com/Akhatova/Data-Science-Coursera/tree/master/projects/Predict%20Grant%20Applications) | [Logistic Regression for binary classification](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html)
